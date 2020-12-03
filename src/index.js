@@ -6,4 +6,3 @@ export default function telephonesOperating(phoneNumber) {
   }
   return `+${filteredPhone}`;
 }
-
